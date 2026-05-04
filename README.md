@@ -112,11 +112,7 @@ http://localhost:8080/index.html
 
 ---
 
-## 📸 Screenshots
 
-*(Add screenshots here after deployment for better presentation)*
-
----
 
 ## 👩‍💻 Author
 
